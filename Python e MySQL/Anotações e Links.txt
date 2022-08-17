@@ -1,0 +1,5 @@
+## Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. 
+Link para download do Python: https://www.python.org/downloads/
+
+## O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.
+Link para download do MySQL: https://www.mysql.com/downloads/
